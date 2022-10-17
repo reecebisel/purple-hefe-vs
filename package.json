@@ -1,0 +1,21 @@
+{
+  "name": "purple-hefe",
+  "displayName": "purple-hefe",
+  "description": "Purple based rainbow theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple Hefe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple Hefe-color-theme.json"
+      }
+    ]
+  }
+}
